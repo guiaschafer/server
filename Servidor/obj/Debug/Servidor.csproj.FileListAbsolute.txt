@@ -1,0 +1,87 @@
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\ApplicationInsights.config
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\csc.exe
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\System.Collections.Immutable.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\vbc.exe
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\VBCSCompiler.exe
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\roslyn\VBCSCompiler.exe.config
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Servidor.dll.config
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Servidor.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Servidor.pdb
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Aplicacao.exe
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.Web.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.WindowsServer.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.ApplicationInsights.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Newtonsoft.Json.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\System.Net.Http.Formatting.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\System.Web.Http.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\System.Web.Http.WebHost.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Aplicacao.pdb
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.Web.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.AI.WindowsServer.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.ApplicationInsights.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\Newtonsoft.Json.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\System.Net.Http.Formatting.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\System.Web.Http.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\bin\System.Web.Http.WebHost.xml
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\obj\Debug\Servidor.dll
+c:\users\guilherme.schafer\documents\visual studio 2015\Projects\Trabalho2\Servidor\obj\Debug\Servidor.pdb
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\ApplicationInsights.config
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\csc.exe
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\vbc.exe
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\VBCSCompiler.exe
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Servidor.dll.config
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Servidor.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Servidor.pdb
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Aplicacao.exe
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.Web.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Newtonsoft.Json.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\System.Net.Http.Formatting.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\System.Web.Http.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\System.Web.Http.WebHost.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Aplicacao.pdb
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Aplicacao.exe.config
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.Web.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\Newtonsoft.Json.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\System.Net.Http.Formatting.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\System.Web.Http.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\bin\System.Web.Http.WebHost.xml
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\obj\Debug\Servidor.dll
+C:\Users\Guilherme\Desktop\Trabalho2-1005\Trabalho2\Servidor\obj\Debug\Servidor.pdb
